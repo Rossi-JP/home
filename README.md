@@ -1,2 +1,2 @@
-# homr
+# home
 Pages personnelles
