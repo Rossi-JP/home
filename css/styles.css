@@ -18,7 +18,9 @@ p {
 /* -------------------------------- */
 body{
   font-family: Helvetica;
-  font-size: 12pt;
+  /* font-size: 12pt;*/
+  font-size: 1.0rem;  /* Valeur par défaut = 1rem, donc 1.15rem = 115% */
+  line-height: 1.6;
 }
 /* -------------------------------- */
 legen_ancien
